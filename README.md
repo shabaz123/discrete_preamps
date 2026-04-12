@@ -26,6 +26,9 @@ Designed by M. Kellett, this preamplifier is optimised for speech signals in HF 
 ### PCB Underside
 ![K1 Underside](preamp_k1/k1_underside.png)
 
+### PCB Render
+![K1 Render](preamp_k1/k1_render.png)
+
 ---
 
 ## Preamp K2
@@ -44,6 +47,9 @@ Also designed by M. Kellett, this version provides higher gain and a slightly na
 
 ### PCB Underside
 ![K2 Underside](preamp_k2/k2_underside.png)
+
+### PCB Render
+![K2 Render](preamp_k2/k2_render.png)
 
 ---
 
