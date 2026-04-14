@@ -5945,7 +5945,7 @@
 				)
 			)
 		)
-		(property "Sim.Params" "dc=0 ampl=0.001 f=1k ac=1"
+		(property "Sim.Params" "SIN(0 1m 1k) AC 1 ; SIN(dc, ampl, f)"
 			(at 49.53 112.9001 0)
 			(show_name no)
 			(do_not_autoplace no)
