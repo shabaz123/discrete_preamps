@@ -662,6 +662,14 @@
     "meta": {
       "version": 1
     },
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 4,
+      "workbook_filename": "preamp_k1.wbk"
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "reuse_designators": true,
@@ -674,7 +682,7 @@
         "uuid": "17e655d6-68e2-45a0-92e7-3164f3a0bcee"
       }
     ],
-    "used_designators": "J4",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
