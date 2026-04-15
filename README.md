@@ -3,7 +3,7 @@
 This repository contains  discrete audio amplifier designs intended primarily for HF receiver applications (speech bandwidth, not music).  
 
 Each design includes:
-- KiCad 10 schematic and PCB files
+- KiCad 10 Schematic and PCB files
 - KiCad 10 SPICE Simulation Workbook
 - Gerber files for fabrication  
 - PDF schematic export and PCB screenshots for easy viewing without KiCad  
