@@ -1,4 +1,4 @@
-# Discrete Preamps
+# Discrete Amps
 
 This repository contains two discrete audio preamplifier designs intended primarily for HF receiver applications (speech bandwidth, not music).  
 
