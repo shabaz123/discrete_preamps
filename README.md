@@ -54,6 +54,28 @@ Also designed by M. Kellett, this version provides higher gain and a slightly na
 
 ---
 
+## Poweramp K1
+
+Also designed by M. Kellett, this amplifier is a power stage, and it directly drives 8 ohm speakers, with low distortion (less than 0.5%) at 280 mW.
+
+- **Gain:** ~27 dB  
+- **Bandwidth (-3 dB):** ~50 Hz to 30 kHz (approximate)  
+- **Use case:** Driving an 8-ohm speaker in a radio receiver  
+
+### Schematic
+![K2 Schematic](poweramp_k1/k1_schematic_rev1_0.png)
+
+### PCB Top
+![K2 Top](poweramp_k1/poweramp_k1_top.png)
+
+### PCB Underside
+![K2 Underside](poweramp_k1/poweramp_k1_underside.png)
+
+### PCB Render
+![K2 Render](poweramp_k1/poweramp_k1_render.png)
+
+---
+
 ## Notes
 
 These designs are intended for experimentation and adaptation.
